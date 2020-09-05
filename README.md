@@ -1,4 +1,4 @@
-<img src="/wolf.png" alt="Wolf" align="right">
+<img src="https://bruxromuar.com/images/wolf.png" alt="Wolf" align="right">
 
 ## Hi there! 👋
 
