@@ -1,6 +1,6 @@
-## Hi there! 👋
-
 <img src="/wolf.png" alt="Wolf" align="right">
+
+## Hi there! 👋
 
 - Lead Front-end Developer at [Ingenuity](https://ingenuity.ph)
 - Works using Typescript, Javascript, CSS, React and Vue
