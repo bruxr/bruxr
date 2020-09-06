@@ -1,9 +1,9 @@
 <img src="https://bruxromuar.com/images/wolf.png" alt="Wolf" align="right">
 
-### Hello
+### Hello, I'm Brux
 
 - Lead Front-end Developer at [Ingenuity](https://ingenuity.ph)
-- Works using Typescript, Javascript, CSS, React and Vue
+- Uses Typescript, Javascript, CSS, React and Vue
 - Puts Accessibility and Inclusive Design to the table
 - Starting out in Open Source
 - Brings the thunder as a Bassist
