@@ -1,5 +1,3 @@
-<img src="https://bruxromuar.com/images/wolf.png" alt="Wolf" align="right">
-
 ### Hello, I'm Brux
 
 - Lead Front-end Developer at [Ingenuity](https://ingenuity.ph)
