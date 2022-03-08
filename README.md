@@ -1,6 +1,6 @@
 ### Hello, I'm Brux
 
-- Lead Front-end Developer at [Ingenuity](https://ingenuity.ph)
+- Lead Frontend Developer and previously the Head of Design at [Ingenuity](https://ingenuity.ph)
 - Uses Typescript, Javascript, CSS, React and Vue
 - Puts Accessibility and Inclusive Design to the table
 - Starting out in Open Source
