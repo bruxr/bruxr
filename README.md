@@ -1,6 +1,7 @@
 ### Hello, I'm Brux
 
-- Lead Frontend Developer and previously the Head of Design at [Ingenuity](https://ingenuity.ph)
+- Currently building web apps using Ruby on Rails!
+- Formerly the Head of Design and Lead Frontend Developer at [Ingenuity](https://ingenuity.ph)
 - Uses Typescript, Javascript, CSS, React and Vue
 - Puts Accessibility and Inclusive Design to the table
 - Starting out in Open Source
